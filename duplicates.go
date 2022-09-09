@@ -1,6 +1,6 @@
 // returning duplicates in an array using maps
 
-package main
+package duplicates
 
 import (
 	"fmt"

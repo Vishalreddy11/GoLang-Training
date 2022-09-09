@@ -1,6 +1,6 @@
 // Creating a Basic caluclator.
 
-package main
+package caluclator
 
 import (
 	"fmt"
